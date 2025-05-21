@@ -1,0 +1,86 @@
+.chitietsanpham
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+.sanpham 
+{
+    width: 1200px;
+}
+.hinhanh
+{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+.mota
+{
+    padding-top: 20px;
+}
+.Img
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 700px;
+    height: 300px;
+}
+.slider
+{
+    width: 700px;
+    height: 300px;
+}
+.giaban
+{
+    width: 500px;   
+    height: 100px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.giaban>p
+{
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
+.giacu
+{
+    font-size: 20px;
+    color: black;
+    text-decoration-line: line-through;
+    padding-left: 10px;
+}
+.khuyenmai
+{
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.quangcao
+{
+    width: 100%;
+}
+.nutmua
+{
+   margin: 20px auto; 
+   text-decoration: none;
+   color: #ffff;
+   background-color: #be1e2d;
+   padding: 10px 20px;  
+   border-radius: 5px;
+   font-size: 20px;
+   font-weight: 600;
+   cursor: pointer;
+   width: 350px;
+   height: 60px;
+   text-align: center;
+}
+.giaohang
+{
+    font-size: 15px;
+    font-weight: normal;
+    display: inline-block;
+}
